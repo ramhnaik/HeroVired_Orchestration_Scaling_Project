@@ -3,11 +3,17 @@
 
 ### Notes:
 Jenkins Credentials:
+
 URL: http://3.111.188.91:8080/
+
 Username: herovired
+
 Password: herovired
+
 Project Link: https://github.com/UnpredictablePrashant/SampleMERNwithMicroservices
+
 Fork this repository. For the update from the main repository, you can refer to this link:
+
 https://stackoverflow.com/questions/3903817/pull-new-updates-from-original-github-repository-into-forked-github-repository
 
 Project Steps:
@@ -93,3 +99,4 @@ Integrate ChatOps with Messaging Platform:
 Configure integrations with a messaging platform (e.g., Slack/MS Teams/ Telegram) to receive notifications from SNS.
 Configure SES
 
+[Solution](solution.md)
